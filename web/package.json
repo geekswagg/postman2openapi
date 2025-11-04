@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "clean-webpack-plugin": "^4.0.0",
-    "codemirror": "^5.57.0",
+    "codemirror": "^5.65.20",
     "js-yaml": "^4.1.0",
     "postman2openapi": "file:./wasm"
   },
